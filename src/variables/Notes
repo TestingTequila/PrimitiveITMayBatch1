@@ -1,0 +1,8 @@
+1. DataTypes
+   1. Primitive Data Type [byte, short, int, long, float, double, char, boolean]
+   a) To use them, we don't need to create objects
+   b) The memory needed to store primitive data types is FIXED and we know this in advance
+
+   2. Non-Primitive data Type [Class, Array, String....]
+      a) To use them, we need to create objects
+      b) The memory needed to store non-primitive data types is NOT FIXED and we don't know this in advance
