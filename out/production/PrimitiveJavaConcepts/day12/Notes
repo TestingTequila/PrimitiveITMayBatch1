@@ -1,0 +1,38 @@
+Statements: Whenever we need to make decisions, we have depend on STATEMENTS
+-If statement: When we only know what to do, if condition is true
+ if(Condition)
+ {
+   This will execute only if condition is true
+ }
+================================================================================
+-If Else Statement
+if(Condition)
+ {
+   This will execute only if condition is true
+ }
+else
+{
+ This will execute only if condition is false
+}
+================================================================================
+-If-ElseIf Statement
+if(Condition)
+ {
+   This will execute only if condition is true
+ }
+ else if(condition 2)
+ {
+  This will execute only if condition is true
+ }
+
+  else if(condition3)
+  {
+   This will execute only if condition is true
+  }
+else
+{
+ This will execute only if condition is false
+}
+
+=======================================================================================
+-Switch Statement
