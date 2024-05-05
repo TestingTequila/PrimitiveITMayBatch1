@@ -26,6 +26,11 @@ While
 
  3- advanced for loop [for each loop]
 
+ for(dataTypeOfGroup aliasName: nameOfGroup)
+ {
+      //Action
+ }
+
 
  //JAVA:
 

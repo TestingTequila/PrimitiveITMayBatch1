@@ -1,0 +1,13 @@
+1- Arrays:
+   Group of items of similar data type - Store them in an array.
+
+   Variable Syntax:
+   //dataType variableName =value;
+
+   Array Syntax:
+   //dataType[] arrayName = {value1,value2, value3...........valueN};
+
+   //dataType[] arrayName = new dataType[countOfItemsYouWantToStore]
+
+   Arrays + Loops
+

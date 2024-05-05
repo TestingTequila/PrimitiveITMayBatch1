@@ -16,4 +16,24 @@ b) If you have group of something, and over that group you wish to perform some 
       {
         This will execute only if condition is true;
       }
-3- advanced for loop [for each loop]
+
+
+While
+ not sure about number of iterations
+ infinite page loading: Facebook, LinkedIn...
+ Wait for certain web Element
+ Pagination
+
+ 3- advanced for loop [for each loop]
+
+ for(dataTypeOfGroup aliasName: nameOfGroup)
+ {
+      //Action
+ }
+
+
+ //JAVA:
+
+ 1- Statements and Loops
+ 2- Arrays
+ 3- Methods
