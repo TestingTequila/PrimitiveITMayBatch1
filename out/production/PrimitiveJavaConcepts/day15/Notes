@@ -1,0 +1,10 @@
+Class: Its a Template
+Object: Every copy of the template that we create is know as its Object
+
+How to create Object of any existing class
+NameOfTheClassWhoseCopyYouWishToCreate nameOfTheCopy = new NameOfTheClassWhoseCopyYouWishToCreate();
+
+
+Profession
+
+Profession p1 = new Profession();
