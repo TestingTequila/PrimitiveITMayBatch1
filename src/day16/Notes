@@ -1,0 +1,10 @@
+1. Methods
+   Actions performed over class variables
+
+
+   StructureOfMethod:
+
+   accessModifier[public,private,protected] returnType[void,DataType] methodName(can/t parameters)
+   {
+       Action over class variable
+   }
