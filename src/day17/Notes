@@ -1,0 +1,15 @@
+Variable:
+
+=>Share with multiple methods
+-Global Variable
+
+=>Don't Share with multiple methods
+-Do you want fixed result from the method
+  Create local variable and assign value to the variable
+
+-Do you want different result from the method
+ Create parameter
+
+=> Use of 'this' keyword
+   -If parameters name is same as global variables name and you want to assign parameters value to
+    global variable, use 'this' keyword
